@@ -1,0 +1,10 @@
+{
+    "clientId": "replace this to clientId from https://discord.com/developers/applications",
+    "details": "nice rpc bro",
+    "state": "watching",
+    "largeImageKey": "logo",
+    "largeImageText": "Discord",
+    "buttonLabel": "join",
+    "buttonUrl": "https://google.com/"
+  }
+  
